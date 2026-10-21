@@ -35,22 +35,13 @@ Bitcoin chủ yếu để chuyển giá trị. Ethereum thêm smart contract (ch
 - Đổi remote sang repo bootcamp-devlog của mình.
 - Tạo file devlog theo template.
 
-```
-git clone https://github.com/vantuann205/dev-lock-bootcamp.git
-git remote set-url origin https://github.com/trghieu03/bootcamp-devlog.git
-```
 
 ## 4. Evidence
-
-| Task | Evidence URL | What it proves |
-|------|--------------|----------------|
-| Repo nộp bài | https://github.com/trghieu03/bootcamp-devlog | Repo đã tạo và có devlog |
-| Devlog buổi 1 | https://github.com/trghieu03/bootcamp-devlog/blob/main/submissions/trghieu03/session-01.md | Đã nộp devlog buổi 1 |
-
+https://drive.google.com/file/d/1qdcitlyBmiszjLsU_TG96r33EYAmtDPV/view?usp=sharing
 ## 5. Blockers
 
-Lúc đầu máy chưa cài Git nên báo lỗi `'git' is not recognized`. Mình đã cài Git và mở lại Command Prompt thì chạy được. Mình cũng gõ nhầm lệnh copy file (dùng `/` thay vì `\`), đã sửa lại.
+
 
 ## 6. Takeaway
 
-Buổi 1 cho mình bức tranh tổng quan: blockchain là sổ cái phi tập trung. Buổi 2 sẽ đi sâu vào cách nó hoạt động: cấu trúc block, transaction, node và vòng đời một giao dịch.
+Buổi 1 cho mình bức tranh tổng quan: blockchain là sổ cái phi tập trung.
