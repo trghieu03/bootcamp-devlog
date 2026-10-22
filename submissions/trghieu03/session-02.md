@@ -45,3 +45,17 @@ https://drive.google.com/file/d/1wWnwPLqqpKX4B4pdZflRoHaKvPW-7bpA/view?usp=shari
 ## 5. Blockers
 
 ## 6. Takeaway
+*Mã hash (hash)
+Hash là kết quả của một hàm băm: đưa dữ liệu bất kỳ vào, nhận về một chuỗi có độ dài cố định (SHA-256 luôn ra 256 bit). Đặc điểm:
+- Cùng dữ liệu thì luôn ra cùng một hash.
+- Đổi một ký tự nhỏ thì hash đổi hoàn toàn.
+- Một chiều: từ hash không suy ngược ra được dữ liệu gốc.
+MD5 và SHA-1 không còn an toàn, blockchain dùng SHA-256.
+
+*Hash trong blockchain
+- Nối block: mỗi block chứa hash của block trước, sửa block cũ thì chuỗi phía sau đứt.
+- Proof of Work: thợ đào thử nonce cho đến khi hash của block có đủ số số 0 ở đầu theo độ khó.
+- Địa chỉ ví: tạo từ public key qua các hàm băm, nên không suy ngược ra khóa được.
+- Merkle tree: băm các giao dịch theo cặp thành cây, chỉ cần lưu Root Hash trong header để kiểm tra nhanh.
+
+
