@@ -25,6 +25,7 @@ Buổi học về smart contract và các loại tài sản số trên blockchai
 ### Mint / Burn
 - **Mint:** tạo thêm token mới. **Burn:** huỷ token vĩnh viễn (gửi về địa chỉ không ai dùng được).
 - Dùng để điều chỉnh nguồn cung.
+- Câu hỏi trên lớp: dự án burn 10% số token thì giá có chắc tăng 10% không? Không chắc. Giá phụ thuộc cầu, tâm lý thị trường và vốn hoá; burn chỉ giảm nguồn cung, nếu cầu không tăng thì giá không tăng theo tỷ lệ đó.
 
 ### Stablecoin
 - Token giữ giá ổn định, thường neo theo 1 USD.
@@ -51,6 +52,7 @@ Buổi học về smart contract và các loại tài sản số trên blockchai
 
 ## 4. Evidence
 - Ảnh chụp slide "Smart contract có giới hạn" trong buổi học: [session-05-evidence.webp](session-05-evidence.webp)
+- Ảnh chụp câu hỏi về Mint/Burn trong buổi học: [session-05-evidence-2.png](session-05-evidence-2.png)
 
 ## 5. Blockers
 - (để trống nếu không có)
