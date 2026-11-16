@@ -51,8 +51,8 @@ Buổi học về smart contract và các loại tài sản số trên blockchai
 - Viết devlog và đẩy lên repo bootcamp-devlog.
 
 ## 4. Evidence
-- Ảnh chụp slide "Smart contract có giới hạn" trong buổi học: [session-05-evidence.webp](session-05-evidence.webp)
-- Ảnh chụp câu hỏi về Mint/Burn trong buổi học: [session-05-evidence-2.png](session-05-evidence-2.png)
+- Ảnh chụp slide "Smart contract có giới hạn" trong buổi học: ![session-05-evidence.webp](evidence/session-05-evidence.webp)
+- Ảnh chụp câu hỏi về Mint/Burn trong buổi học: ![session-05-evidence-2.png](evidence/session-05-evidence-2.png)
 
 ## 5. Blockers
 - (để trống nếu không có)

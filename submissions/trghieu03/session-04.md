@@ -52,7 +52,7 @@ Buổi học về cách các node trong mạng blockchain thống nhất một t
 - Viết devlog và đẩy lên repo bootcamp-devlog.
 
 ## 4. Evidence
-- Ảnh chụp buổi học trên Discord (04/11/2026, slide Blockchain Trilemma): [session-04-evidence.webp](session-04-evidence.webp)
+- Ảnh chụp buổi học trên Discord (04/11/2026, slide Blockchain Trilemma): ![session-04-evidence.webp](evidence/session-04-evidence.webp)
 ## 5. Blockers
 - (để trống nếu không có)
 
